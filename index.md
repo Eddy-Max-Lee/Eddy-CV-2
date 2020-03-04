@@ -12,19 +12,22 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Education
 ## National Taiwan University of Science and Technology
-Master of Science in Automation and Control (2019~)
+Master of Science in Automation and Control (2019 -)
 ## National Yunlin University of Science and Technology
-Bachelor of Science in Electrical Engineering (2014~2019)
+Bachelor of Science in Electrical Engineering (2014 - 2019)
 
 TOEIC: 775
 
 # Work Experience
-| Employment agency       | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|               Employment agency                     |           Postion          |       Dates        |
+|:----------------------------------------------------|:---------------------------|:-------------------|
+| Dept. Electronic & Computer Engineering, TaiwanTech | Teaching Assistant         | 2019.9  - 2021.6   |
+| Liufeng Machinery Industry Co., Shangdong, China    | Intern Electrical Engineer | 2018.2  - 2018.6   |
+| Center of Information, YunTech                      | Dorm Network Assistant     | 2014.9  - 2017.6   |
+|                                                     | consultant                 | 2017.6  - 2018.6   |
+| Center of Extension, YunTech                        | Administrative Assistant   | 2016.7  - 2016.10  |
+| Research and Development Office, YunTech            | Activities Assistant       | 2016.10 - 2016.11  |
+| Ministry of Education, Taiwan                       | E-Tutor for remote areas   | 2016.10 - 2017.1   |
 
 
 # Profession
