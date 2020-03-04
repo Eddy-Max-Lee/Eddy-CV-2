@@ -19,7 +19,7 @@ Bachelor of Science in Electrical Engineering (2014 - 2019)
 TOEIC: 775
 
 # Work Experience
-|               Employment agency                     |           Postion          |       Dates        |
+| Employment agency                                   | Postion                    | Dates              |
 |:----------------------------------------------------|:---------------------------|:-------------------|
 | Dept. Electronic & Computer Engineering, TaiwanTech | Teaching Assistant         | 2019.9  - 2021.6   |
 | Liufeng Machinery Industry Co., Shangdong, China    | Intern Electrical Engineer | 2018.2  - 2018.6   |
@@ -28,6 +28,12 @@ TOEIC: 775
 | Center of Extension, YunTech                        | Administrative Assistant   | 2016.7  - 2016.10  |
 | Research and Development Office, YunTech            | Activities Assistant       | 2016.10 - 2016.11  |
 | Ministry of Education, Taiwan                       | E-Tutor for remote areas   | 2016.10 - 2017.1   |
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 
 # Profession
