@@ -22,7 +22,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
   Japanese :(JLPT)
   Malay :
 # Programming Skill
-
+//缺內容簡述
 # Work Experience
 
 | Employment Agency                                   | Postion                    | Dates              |
@@ -34,9 +34,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 | Center of Extension Education, YunTech              | Administrative Assistant   | 2015.7  - 2015.10  |
 | Center of Information, YunTech                      | Web Administrator          | 2014.9  - 2017.6   |
 |                                                     | Consultant                 | 2017.6  - 2018.6   |
-
-//缺內容簡述
-
 
 # Profession
 # Published Papers
