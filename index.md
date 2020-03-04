@@ -5,14 +5,25 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-
+[autobiography](./autobiography.html).
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Education
+##National Taiwan University of Science and Technology
+Master of Science in Automation and Control (2019~)
+##National Yunlin University of Science and Technology
+Bachelor of Science in Electrical Engineering (2014~2019)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+TOEIC: 775
+
+# Experience
+
+# Project List
+
+
+
 
 ## Header 2
 
