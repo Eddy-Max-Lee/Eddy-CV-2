@@ -23,7 +23,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
   * Malay :
 # Programming Skill
   * Embended System, SoC(C)
-  * UI on Windows/Linux(C#,Python)
+  * UI on Windows/Linux(VB.NET, C#, Python)
   * Android App(JAVA)
   * Web App(Node)  
   * Chat Bot(Node)
@@ -42,9 +42,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
   * PLC(Block Control)
 
 
-
-# Work Experience
 <!-- //缺內容簡述 -->
+# Work Experience
+
 | Employment Agency                                   | Postion                    | Dates              |
 |:----------------------------------------------------|:---------------------------|:-------------------|
 | Dept. Electronic & Computer Engineering, TaiwanTech | Teaching Assistant         | 2019.9  - 2021.6   |
