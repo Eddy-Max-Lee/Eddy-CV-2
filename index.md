@@ -21,6 +21,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
   * German
   * Japanese :(JLPT)
   * Malay :
+
 # Programming Skill
   * Embended System, SoC(C)
   * UI on Windows/Linux(VB.NET, C#, Python)
@@ -30,6 +31,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
   * Database(MongoDB)
   * AI System(Python)
   * Crawler(Python, Node)
+  
 # Software Skill
   * Matlab(Simulink, Fuzzy, Big Data Processing,DSP ...)
     🌕🌕🌕🌕🌑
@@ -44,7 +46,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!-- //缺內容簡述 -->
 # Work Experience
-
 | Employment Agency                                   | Postion                    | Dates              |
 |:----------------------------------------------------|:---------------------------|:-------------------|
 | Dept. Electronic & Computer Engineering, TaiwanTech | Teaching Assistant         | 2019.9  - 2021.6   |
