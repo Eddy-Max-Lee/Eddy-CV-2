@@ -11,9 +11,9 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Education
-###### National Taiwan University of Science and Technology
+#### National Taiwan University of Science and Technology
 Master of Engineering in Automation and Control (2019 - )
-###### National Yunlin University of Science and Technology
+#### National Yunlin University of Science and Technology
 Bachelor of Electrical Engineering (2014 - 2019)
 
 TOEIC: 775
