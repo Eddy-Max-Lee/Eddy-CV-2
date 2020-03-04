@@ -15,9 +15,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
   Master of Engineering in Automation and Control (2019 - )
 #### National Yunlin University of Science and Technology, Taiwan
   Bachelor of Electrical Engineering (2014 - 2019)
-# Language Skill
+# Language Skill (Updating)
   Mandarin:🌕🌕🌕🌕🌕
-  English :🌕🌕🌕🌕🌑 (TOEIC: 775)
+  English :🌕🌕🌕🌕🌑 (TOEIC: 775/990)
   German
   Japanese :(JLPT)
   Malay :
@@ -34,6 +34,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 | Center of Extension Education, YunTech              | Administrative Assistant   | 2015.7  - 2015.10  |
 | Center of Information, YunTech                      | Web Administrator          | 2014.9  - 2017.6   |
 |                                                     | Consultant                 | 2017.6  - 2018.6   |
+
 //缺內容簡述
 
 
@@ -46,6 +47,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Competition Experience
 # Student Activities
+# Interests
 
 ## Header 2
 
