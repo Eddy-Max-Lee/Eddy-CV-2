@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-[autobiography](./autobiography.html).
+[autobiography](./autobiography.md).
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -23,11 +23,11 @@ TOEIC: 775
 | Employment agency                                   | Postion                    | Dates              |
 |:----------------------------------------------------|:---------------------------|:-------------------|
 | Dept. Electronic & Computer Engineering, TaiwanTech | Teaching Assistant         | 2019.9  - 2021.6   |
-| Liufeng Machinery Industry Co., Shangdong, China    | Intern Electrical Engineer | 2018.2  - 2018.6   |
+| Liufeng Machinery Industry Co.  Shangdong, China    | Intern Electrical Engineer | 2018.2  - 2018.6   |
 | Ministry of Education, Taiwan                       | E-Tutor for remote areas   | 2016.10 - 2017.1   |
 | Research and Development Office, YunTech            | Activities Assistant       | 2015.10 - 2016.11  |
 | Center of Extension Education, YunTech              | Administrative Assistant   | 2015.7  - 2015.10  |
-| Center of Information, YunTech                      | Dorm Network Assistant     | 2014.9  - 2017.6   |
+| Center of Information, YunTech                      | Dorm. Network Assistant    | 2014.9  - 2017.6   |
 |                                                     | Consultant                 | 2017.6  - 2018.6   |
 
 
