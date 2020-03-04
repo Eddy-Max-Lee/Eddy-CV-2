@@ -16,15 +16,35 @@ There should be whitespace between paragraphs. We recommend including a README, 
 #### National Yunlin University of Science and Technology, Taiwan
   Bachelor of Electrical Engineering (2014 - 2019)
 # Language Skill (Updating)
-  Mandarin:🌕🌕🌕🌕🌕
-  English :🌕🌕🌕🌕🌑 (TOEIC: 775/990)
-  German
-  Japanese :(JLPT)
-  Malay :
+  * Mandarin:🌕🌕🌕🌕🌕
+  * English :🌕🌕🌕🌕🌑 (TOEIC: 775/990)
+  * German
+  * Japanese :(JLPT)
+  * Malay :
 # Programming Skill
-//缺內容簡述
-# Work Experience
+  * Embended System, SoC(C)
+  * UI on Windows/Linux(C#,Python)
+  * Android App(JAVA)
+  * Web App(Node)  
+  * Chat Bot(Node)
+  * Database(MongoDB)
+  * AI System(Python)
+  * Crawler(Python, Node)
+# Software Skill
+  * Matlab(Simulink, Fuzzy, Big Data Processing,DSP ...)
+    🌕🌕🌕🌕🌑
+  * Microsoft Office 🌕🌕🌕🌕🌗
+  * Labview(IPC Control)
+  * Photoshop
+  * PowerDirector
+  * OrCAD, Altium Designer(PCB Design)
+  * CODEV, Tracepro(Optical System Design)
+  * PLC(Block Control)
 
+
+
+# Work Experience
+<!-- //缺內容簡述 -->
 | Employment Agency                                   | Postion                    | Dates              |
 |:----------------------------------------------------|:---------------------------|:-------------------|
 | Dept. Electronic & Computer Engineering, TaiwanTech | Teaching Assistant         | 2019.9  - 2021.6   |
