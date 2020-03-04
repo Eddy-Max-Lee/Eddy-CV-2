@@ -12,9 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Education
 ###### National Taiwan University of Science and Technology
-Master of Science in Automation and Control (2019 -)
+Master of Engineering in Automation and Control (2019 - )
 ###### National Yunlin University of Science and Technology
-Bachelor of Science in Electrical Engineering (2014 - 2019)
+Bachelor of Electrical Engineering (2014 - 2019)
 
 TOEIC: 775
 
