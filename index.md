@@ -31,11 +31,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
   * Database(MongoDB)
   * AI System(Python)
   * Crawler(Python, Node)
-  
+
 # Software Skill
   * Matlab(Simulink, Fuzzy, Big Data Processing,DSP ...)
     🌕🌕🌕🌕🌑
-  * Microsoft Office 🌕🌕🌕🌕🌗
+  * Microsoft Office(Excel, PowerPoint, Word, Visio, OneNote)🌕🌕🌕🌕🌗
   * Labview(IPC Control)
   * Photoshop
   * PowerDirector
@@ -46,6 +46,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!-- //缺內容簡述 -->
 # Work Experience
+
+
 | Employment Agency                                   | Postion                    | Dates              |
 |:----------------------------------------------------|:---------------------------|:-------------------|
 | Dept. Electronic & Computer Engineering, TaiwanTech | Teaching Assistant         | 2019.9  - 2021.6   |
@@ -55,6 +57,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 | Center of Extension Education, YunTech              | Administrative Assistant   | 2015.7  - 2015.10  |
 | Center of Information, YunTech                      | Web Administrator          | 2014.9  - 2017.6   |
 |                                                     | Consultant                 | 2017.6  - 2018.6   |
+
 
 # Profession
 # Published Papers
@@ -104,9 +107,9 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
+| Employment Agency        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| Dept. Electronic & Computer Engineering, TaiwanTech           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
@@ -114,7 +117,15 @@ end
 ### There's a horizontal rule below this.
 
 * * *
-
+| Employment Agency                                   | Postion                    | Dates              |
+|:----------------------------------------------------|:---------------------------|:-------------------|
+| Dept. Electronic & Computer Engineering, TaiwanTech | Teaching Assistant         | 2019.9  - 2021.6   |
+| Liufeng Machinery Industry Co.  Shangdong, China    | Intern Electrical Engineer | 2018.2  - 2018.6   |
+| Ministry of Education, Taiwan                       | E-Tutor for remote areas   | 2016.10 - 2017.1   |
+| Research and Development Office, YunTech            | Activity Assistant         | 2015.10 - 2016.11  |
+| Center of Extension Education, YunTech              | Administrative Assistant   | 2015.7  - 2015.10  |
+| Center of Information, YunTech                      | Web Administrator          | 2014.9  - 2017.6   |
+|                                                     | Consultant                 | 2017.6  - 2018.6   |
 ### Here is an unordered list:
 
 *   Item foo
