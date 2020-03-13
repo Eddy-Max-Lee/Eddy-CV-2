@@ -20,7 +20,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
   * English :🌕🌕🌕🌕🌑 (TOEIC: 775/990)
   * German
   * Japanese :(JLPT)
-  * Malay :
+  * Indonesian :
 
 # Programming Skill
   * Embended System, SoC(C)
@@ -69,6 +69,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Competition Experience
 # Student Activities
 # Interests
+# Award
 
 ## Header 2
 
