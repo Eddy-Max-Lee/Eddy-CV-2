@@ -62,35 +62,47 @@ There should be whitespace between paragraphs. We recommend including a README, 
 |                                                     | Consultant                 | 2017.6  - 2018.6   |
 
 
-# Profession
-# Published Papers
 
 # Project List
 ### RX62T SOC Application: Star Tracker | 2017
 This topic is a work developed in **C** using the RX62T system chip provided by _Renesas Electronic_. The main purpose of this project is to find and track celestial bodies. Using a home-made mobile application, the RX62T is assigned designated coordinates through **Bluetooth** communication, and two motors are used to ....
 [Detail](./autobiography.md)
 
-#### Android Application of Motion Detection & Symbol Detection Augmented Reality FPS Game | 2017
-Capture images by using the built-in lens of mobile devices, develop in **Android** Developer environment with **Java**, and implement OpenCV for Android library. Use _HOG_, _motion detection_, _pattern recognition_ and other methods to find a moving human and identify each of the person.
+### Android Application of Motion Detection & Symbol Detection Augmented Reality FPS Game | 2017
+Capture images by using the built-in lens of mobile devices, develop in **Android** Developer environment with **Java**, and implement OpenCV for Android library. Use _HOG_, _motion detection_, _pattern recognition_ and ....
 [Detail](./autobiography.md)
-
-#### KP the Mecha| 2017
-
-
-####　APPLICATION OF IMAGE PROCESSING & MOTOR | 2018
-
-####　APPLICATION OF IMAGE PROCESSING & MOTOR | 2018
-
-####　PRACTICAL AOI AND MACHINE VISION FINAL: CHEATING DICE CUP | 2019
+```
+Capture images by using the built-in lens of mobile devices, develop in **Android** Developer environment with **Java**, and implement OpenCV for Android library. Use _HOG_, _motion detection_, _pattern recognition_ and other methods to find a moving human and identify each of the person.
+```
+### KP the Mecha| 2017
 
 
+###	Application of Image Processing & Motor | 2018
+
+###　Internship Report | 2018
+
+###　PRACTICAL AOI AND MACHINE VISION FINAL: CHEATING DICE CUP | 2019
+
+### Design of an autonomous UAV for Drone-To-Person Delivery without the need of a specialized landing site | 2020
+Abstract—Product delivery is increasing steadily and a new way of transporting goods faster and automatic is wished for. Small unmanned aerial vehicles (UAV) can provide a cost-efficient and fast solution for short-distance deliveries. In current implementations however, there is often the need for a dedicated landing site, that has to be prepared beforehand. In this paper a new system is developed....[Detail](./autobiography.md)
 
 # Side Project List
+### LITE-ON Award
+### ATCC Project:
+### Hackson :
+###　取物販賣機營利最佳化模型
+### Computer Vision Application & Design Final:
+### 咳嗽檢舉系統
+### CHT
+
 
 # Competition Experience
 # Student Activities
 # Interests
-# Award
+# Awards
+# Profession
+# Published Papers
+Not yet~
 
 ## Header 2
 
