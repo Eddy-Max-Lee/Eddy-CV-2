@@ -13,13 +13,13 @@ layout: default
 #### National Yunlin University of Science and Technology, Taiwan
   Bachelor of Electrical Engineering (2014 - 2019)
 # Language Skill (Updating)
-| Language       | Level          | Certification |
-|:-----------|:------------------|:------|
-| Mandarin   | 🌕🌕🌕🌕🌕 |   |
+| Language   | Level        | Certification   |
+|:-----------|:-------------|:----------------|
+| Mandarin   | 🌕🌕🌕🌕🌕 |                 |
 | English    | 🌕🌕🌕🌕🌑 | TOEIC: 775/990  |
-| German     | 🌕🌕🌑🌑🌑 | hmm   |
-| Japanese   | 🌕🌕🌑🌑🌑 | JLPT  |
-| Indonesian | 🌕🌕🌑🌑🌑 | 77  |
+| German     | 🌕🌕🌑🌑🌑 |                 |
+| Japanese   | 🌕🌕🌑🌑🌑 | JLPT            |
+| Indonesian | 🌕🌕🌑🌑🌑 |                 |
 
   * Mandarin   : 🌕🌕🌕🌕🌕
   * English    : 🌕🌕🌕🌕🌑 (TOEIC: 775/990)
