@@ -3,14 +3,16 @@ layout: default
 ---
 # The Page is updating
 # 網站維修中
+```
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+```
 [Link to another page](./another-page.html).
 [autobiography](./autobiography.md).
+```
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+```
 # Education
 #### National Taiwan University of Science and Technology, Taiwan
   Master of Engineering in Automation and Control (2019 - )
@@ -108,13 +110,13 @@ end
 3.  This is an ordered list following a header.
 
 ###### Header 6
-
+ `oreos`
 | Employment Agency        | head two          | three |
 |:-------------|:------------------|:------|
 | Dept. Electronic & Computer Engineering, TaiwanTech           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| ok           | good `zoute` drop | [autobiography](./autobiography.md)  |
 
 ### There's a horizontal rule below this.
 
