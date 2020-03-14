@@ -13,6 +13,7 @@ layout: default
 #### National Yunlin University of Science and Technology, Taiwan
   Bachelor of Electrical Engineering (2014 - 2019)
 # Language Skill (Updating)
+
 | Language   | Level        | Certification   |
 |:-----------|:-------------|:----------------|
 | Mandarin   | 🌕🌕🌕🌕🌕 |                 |
@@ -21,11 +22,22 @@ layout: default
 | Japanese   | 🌕🌕🌑🌑🌑 | JLPT            |
 | Indonesian | 🌕🌕🌑🌑🌑 |                 |
 
+
+| Language                                | Level                    | Certification              |
+|:----------------------------------------------------|:---------------------------|:-------------------|
+| Mandarin | Teaching Assistant         | 2019.9  - 2021.6   |
+| English    | Intern Electrical Engineer | 2018.2  - 2018.6   |
+| Ministry of Education, Taiwan                       | E-Tutor for remote areas   | 2016.10 - 2017.1   |
+| Research and Development Office, YunTech            | Activity Assistant         | 2015.10 - 2016.11  |
+| Center of Extension Education, YunTech              | Administrative Assistant   | 2015.7  - 2015.10  |
+| Center of Information, YunTech                      | Web Administrator          | 2014.9  - 2017.6   |
+|                                                     | Consultant                 | 2017.6  - 2018.6   |
   * Mandarin   : 🌕🌕🌕🌕🌕
   * English    : 🌕🌕🌕🌕🌑 (TOEIC: 775/990)
   * German     : 🌕🌕🌑🌑🌑
   * Japanese   : 🌕🌕🌑🌑🌑 (JLPT)
   * Indonesian : 🌕🌕🌑🌑🌑
+
 
 # Programming Skill
   * Embended System, SoC(C)
