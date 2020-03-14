@@ -165,6 +165,7 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://https://github.com/Eddy-Max-Lee/Eddy-CV-2/blob/master/assets/img/shooting.gif)
 
 
 ### Definition lists can be used with HTML syntax.
