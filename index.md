@@ -23,20 +23,7 @@ layout: default
 | Indonesian | 🌕🌕🌑🌑🌑 |                 |
 
 
-| Language                                | Level                    | Certification              |
-|:----------------------------------------------------|:---------------------------|:-------------------|
-| Mandarin | Teaching Assistant         | 2019.9  - 2021.6   |
-| English    | Intern Electrical Engineer | 2018.2  - 2018.6   |
-| Ministry of Education, Taiwan                       | E-Tutor for remote areas   | 2016.10 - 2017.1   |
-| Research and Development Office, YunTech            | Activity Assistant         | 2015.10 - 2016.11  |
-| Center of Extension Education, YunTech              | Administrative Assistant   | 2015.7  - 2015.10  |
-| Center of Information, YunTech                      | Web Administrator          | 2014.9  - 2017.6   |
-|                                                     | Consultant                 | 2017.6  - 2018.6   |
-  * Mandarin   : 🌕🌕🌕🌕🌕
-  * English    : 🌕🌕🌕🌕🌑 (TOEIC: 775/990)
-  * German     : 🌕🌕🌑🌑🌑
-  * Japanese   : 🌕🌕🌑🌑🌑 (JLPT)
-  * Indonesian : 🌕🌕🌑🌑🌑
+
 
 
 # Programming Skill
@@ -104,10 +91,11 @@ Abstract—Product delivery is increasing steadily and a new way of transporting
 ### LITE-ON Award
 ### ATCC Project:
 ###  : Hackson
-###　取物販賣機營利最佳化模型
+### 取物販賣機營利最佳化模型
 ### Computer Vision Application & Design Final:
 ### 咳嗽檢舉GIS系統
 ### : CHT IOT Platform Competition(中華電信IOT大平台創意應用大賽)
+### 紳士狗
 
 
 # Competition Experience
