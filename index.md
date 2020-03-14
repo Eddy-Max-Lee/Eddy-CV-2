@@ -93,9 +93,9 @@ Capture images by using the built-in lens of mobile devices, develop in **Androi
 
 ###	Application of Image Processing & Motor | 2018
 
-###　Internship Report | 2018
+### Internship Report | 2018
 
-###　PRACTICAL AOI AND MACHINE VISION FINAL: CHEATING DICE CUP | 2019
+### PRACTICAL AOI AND MACHINE VISION FINAL: CHEATING DICE CUP | 2019
 
 ### Design of an autonomous UAV for Drone-To-Person Delivery without the need of a specialized landing site | 2020
 Abstract—Product delivery is increasing steadily and a new way of transporting goods faster and automatic is wished for. Small unmanned aerial vehicles (UAV) can provide a cost-efficient and fast solution for short-distance deliveries. In current implementations however, there is often the need for a dedicated landing site, that has to be prepared beforehand. In this paper a new system is developed....[Detail](./autobiography.md)
