@@ -66,6 +66,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Published Papers
 
 # Project List
+### RX62T SOC Application: Star Tracker
+##### 1
+[Detail](./autobiography.md)
+
+#### Android Application of Motion Detection & Symbol Detection Augmented Reality FPS Game
+
 
 # Side Project List
 
