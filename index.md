@@ -3,27 +3,29 @@ layout: default
 ---
 # The Page is updating
 # 網站維修中
-```
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-```
+
 [Link to another page](./another-page.html).
 [autobiography](./autobiography.md).
-```
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-```
 # Education
 #### National Taiwan University of Science and Technology, Taiwan
   Master of Engineering in Automation and Control (2019 - )
 #### National Yunlin University of Science and Technology, Taiwan
   Bachelor of Electrical Engineering (2014 - 2019)
 # Language Skill (Updating)
-  * Mandarin:🌕🌕🌕🌕🌕
-  * English :🌕🌕🌕🌕🌑 (TOEIC: 775/990)
-  * German: 🌕🌕🌑🌑🌑
-  * Japanese :(JLPT)
-  * Indonesian :
+| Language       | Level          | Certification |
+|:-----------|:------------------|:------|
+| Mandarin   | 🌕🌕🌕🌕🌕 |   |
+| English    | 🌕🌕🌕🌕🌑 | TOEIC: 775/990  |
+| German     | 🌕🌕🌑🌑🌑 | hmm   |
+| Japanese   | 🌕🌕🌑🌑🌑 | JLPT  |
+| Indonesian | 🌕🌕🌑🌑🌑 | 77  |
+
+  * Mandarin   : 🌕🌕🌕🌕🌕
+  * English    : 🌕🌕🌕🌕🌑 (TOEIC: 775/990)
+  * German     : 🌕🌕🌑🌑🌑
+  * Japanese   : 🌕🌕🌑🌑🌑 (JLPT)
+  * Indonesian : 🌕🌕🌑🌑🌑
 
 # Programming Skill
   * Embended System, SoC(C)
@@ -146,7 +148,7 @@ end
 | Dept. Electronic & Computer Engineering, TaiwanTech           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | [autobiography](./autobiography.md)  |
+| ok           | good `zoute` drop | 77  |
 
 ### There's a horizontal rule below this.
 
