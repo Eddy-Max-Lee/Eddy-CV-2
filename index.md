@@ -66,15 +66,14 @@ layout: default
 
 # Project List
 ### RX62T SOC Application: Star Tracker | 2017
-This topic is a work developed in **C** using the RX62T system chip provided by _Renesas Electronic_. The main purpose of this project is to find and track celestial bodies. Using a home-made mobile application, the RX62T is assigned designated coordinates through **Bluetooth** communication, and two motors are used to ....
-[Detail](./autobiography.md)
+This topic is a work developed in **C** using the RX62T system chip provided by _Renesas Electronic_. The main purpose of this project is to find and track celestial bodies. Using a home-made mobile application, the RX62T is assigned designated coordinates through **Bluetooth** communication, and two motors are used to ....[Detail](./autobiography.md)
 
 ### Android Application of Motion Detection & Symbol Detection Augmented Reality FPS Game | 2017
-Capture images by using the built-in lens of mobile devices, develop in **Android** Developer environment with **Java**, and implement OpenCV for Android library. Use _HOG_, _motion detection_, _pattern recognition_ and ....
-[Detail](./autobiography.md)
+Capture images by using the built-in lens of mobile devices, develop in **Android** Developer environment with **Java**, and implement OpenCV for Android library. Use _HOG_, _motion detection_, _pattern recognition_ and ....[Detail](./autobiography.md)
 
-### KP the Mecha| 2017
+### KP the Mecha : VB.NET Project| 2017
 Starting from the basic feedback control, this topic designs a robot with entertainment functions as a controlled hard device. By letting the robot visit three players, and letting the player use the keyboard and seven-segment display on the robot to complete the operation, the artifact transportation and monitoring on the assembly line are simulated....[Detail](./autobiography.md)
+
 ### Handwriting Phone Number Recognition through Neural Network | 2018
 
 
@@ -102,6 +101,17 @@ Abstract—Product delivery is increasing steadily and a new way of transporting
 
 # Competition Experience
 # Student Activities
+
+| Club or Activities                          | Postion                    | Dates              |
+|:----------------------------------------------------|:---------------------------|:-------------------|
+| National Agriculture Competition Innovation & Entrepreneurship | Administrative Assistant         | 2019.9  - 2021.6   |
+| National Uniform Day’s Executive Team    | Intern Electrical Engineer | 2018.2  - 2018.6   |
+| Graduated Students Assembly, YunTech        | E-Tutor for remote areas   | 2016.10 - 2017.1   |
+| Strategic Alliances of Central Taiwan United Exhibition of Research and Development            | Activity Assistant         | 2015.10 - 2016.11  |
+| Trump Host Club, YunTech              | Administrative Assistant   | 2015.7  - 2015.10  |
+| Yuntech Airsoft Club                      | Web Administrator          | 2014.9  - 2017.6   |
+| Kaohsiung Star Ban                           | Consultant                 | 2017.6  - 2018.6   |
+
 # Interests
 # Awards
 # Profession
