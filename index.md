@@ -75,7 +75,7 @@ layout: default
 # Project List
 ### RX62T SOC Application: Star Tracker | 2017
 This topic is a work developed in **C** using the RX62T system chip provided by _Renesas Electronic_. The main purpose of this project is to find and track celestial bodies. Using a home-made mobile application, the RX62T is assigned designated coordinates through **Bluetooth** communication, and two motors are used to ....[Detail](./autobiography.md)
-![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p1-0.png)
+![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p1-6.png)
 * * *
 
 ### Android Application of Motion Detection & Symbol Detection Augmented Reality FPS Game | 2017
