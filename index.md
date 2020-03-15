@@ -46,13 +46,13 @@ layout: default
 
 # Software Skill
   * Matlab(Simulink, Fuzzy, Big Data Processing,DSP ...)
-    🌕🌕🌕🌕🌑
-  * Microsoft Office(Excel, PowerPoint, Word, Visio, OneNote)🌕🌕🌕🌕🌗
+
+  * Microsoft Office(Excel, PowerPoint, Word, Visio, OneNote)
   * Labview(IPC Control)
   * Photoshop
   * PowerDirector
   * OrCAD, Altium Designer(PCB Design)
-  * CODEV, Tracepro(Optical System Design)
+  * CodeV, Tracepro(Optical System Design)
   * PLC(Block Control)
 
 
@@ -75,26 +75,33 @@ layout: default
 # Project List
 ### RX62T SOC Application: Star Tracker | 2017
 This topic is a work developed in **C** using the RX62T system chip provided by _Renesas Electronic_. The main purpose of this project is to find and track celestial bodies. Using a home-made mobile application, the RX62T is assigned designated coordinates through **Bluetooth** communication, and two motors are used to ....[Detail](./autobiography.md)
+* * *
 
 ### Android Application of Motion Detection & Symbol Detection Augmented Reality FPS Game | 2017
 Capture images by using the built-in lens of mobile devices, develop in **Android** Developer environment with **Java**, and implement OpenCV for Android library. Use _HOG_, _motion detection_, _pattern recognition_ and ....[Detail](./autobiography.md)
+* * *
 
 ### KP the Mecha : VB.NET Project| 2017
 Starting from the basic feedback control, this topic designs a robot with entertainment functions as a controlled hard device. By letting the robot visit three players, and letting the player use the keyboard and seven-segment display on the robot to complete the operation, the artifact transportation and monitoring on the assembly line are simulated....[Detail](./autobiography.md)
+* * *
 
 ### Handwriting Phone Number Recognition through Neural Network | 2018
-
+* * *
 
 ###	Application of Image Processing & Motor | 2018
 The project covers power system, **human-machine interface**, **computer vision system**, and motor control system. The robot detect the external environment through webcam and find the target after image binarization, expansion, erosion, centroid analysis, frame capture, and use motor PID control and distance feedback system for moving, fetching, aiming correction and shooting.[Detail](./autobiography.md)
+* * *
 
 ### Internship Report | 2018
+* * *
 
 ### PRACTICAL AOI AND MACHINE VISION FINAL: CHEATING DICE CUP | 2019
 Recognite dice number through CNN model with AOI used IR camera module[Detail](./autobiography.md)
+* * *
 
 ### Design of an autonomous UAV for Drone-To-Person Delivery without the need of a specialized landing site | 2020
 Abstract—Product delivery is increasing steadily and a new way of transporting goods faster and automatic is wished for. Small unmanned aerial vehicles (UAV) can provide a cost-efficient and fast solution for short-distance deliveries. In current implementations however, there is often the need for a dedicated landing site, that has to be prepared beforehand. In this paper a new system is developed....[Detail](./autobiography.md)
+* * *
 
 # Side Project List
 ### LITE-ON Award
