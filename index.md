@@ -106,7 +106,7 @@ The project covers power system, **human-machine interface**, **computer vision 
 ### Internship Report | 2018
 [Detail](./autobiography.md)
 
-![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p6-9.png)
+![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p6-5.png)
 * * *
 
 ### PRACTICAL AOI AND MACHINE VISION FINAL: CHEATING DICE CUP | 2019
@@ -119,7 +119,7 @@ Recognite dice number through CNN model with AOI used IR camera module[Detail](.
 ### Design of an Autonomous UAV for Drone-To-Person Delivery without the Need of a Specialized Landing Site | 2020
 Abstract—Product delivery is increasing steadily and a new way of transporting goods faster and automatic is wished for. Small unmanned aerial vehicles (UAV) can provide a cost-efficient and fast solution for short-distance deliveries. In current implementations however, there is often the need for a dedicated landing site, that has to be prepared beforehand. In this paper a new system is developed....[Detail](./autobiography.md)
 
-![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p7-1.png)
+![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p7-3.png)
 * * *
 
 # Side Project List
