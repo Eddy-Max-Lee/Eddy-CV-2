@@ -86,6 +86,7 @@ Starting from the basic feedback control, this topic designs a robot with entert
 * * *
 
 ### Handwriting Phone Number Recognition through Neural Network | 2018
+[Detail](./autobiography.md)
 * * *
 
 ###	Application of Image Processing & Motor | 2018
@@ -93,6 +94,7 @@ The project covers power system, **human-machine interface**, **computer vision 
 * * *
 
 ### Internship Report | 2018
+[Detail](./autobiography.md)
 * * *
 
 ### PRACTICAL AOI AND MACHINE VISION FINAL: CHEATING DICE CUP | 2019
