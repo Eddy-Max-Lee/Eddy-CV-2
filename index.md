@@ -106,11 +106,11 @@ The project covers power system, **human-machine interface**, **computer vision 
 ### Internship Report | 2018
 [Detail](./autobiography.md)
 
-![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p6-5.png)
+![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p6-5.jpg)
 * * *
 
 ### PRACTICAL AOI AND MACHINE VISION FINAL: CHEATING DICE CUP | 2019
-Recognite dice number through CNN model with AOI used IR camera module[Detail](./autobiography.md)
+Recognite dice number through CNN model with AOI used IR camera module....[Detail](./autobiography.md)
 
 
 ![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p8-0.png)
