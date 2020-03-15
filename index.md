@@ -231,6 +231,8 @@ end
 
 ![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/shooting.gif)
 
+![Branching](https://github.com/Eddy-Max-Lee/Eddy-CV-2/blob/master/assets/img/shooting.gif)
+
 ### Definition lists can be used with HTML syntax.
 
 <dl>
