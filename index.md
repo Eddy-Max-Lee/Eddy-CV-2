@@ -82,7 +82,7 @@ Capture images by using the built-in lens of mobile devices, develop in **Androi
 * * *
 
 ### KP the Mecha : VB.NET Project| 2017
-Starting from the basic feedback control, this topic designs a robot with entertainment functions as a controlled hard device. By letting the robot visit three players, and letting the player use the keyboard and seven-segment display on the robot to complete the operation, the artifact transportation and monitoring on the assembly line are simulated....[Detail](./autobiography.md)
+Starting from the basic feedback control, this topic designs a robot with entertainment functions as a controlled hard device. By letting the robot visit three players, and letting the player use the keyboard and seven-segment display on the robot to complete the operation, the artifact transportation and monitoring on the assembly line are simulated....[Detail](./p3.md)
 
 ![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p3-1.png)
 * * *
