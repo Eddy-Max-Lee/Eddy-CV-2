@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-# The Page is updating
-# 網站維修中
-
-[Link to another page](./another-page.html).
-[autobiography](./autobiography.md).
+# Greetings
 
 # Education
 **National Taiwan University of Science and Technology, Taiwan**
@@ -121,6 +117,11 @@ Abstract—Product delivery is increasing steadily and a new way of transporting
 
 ![Branching](https://raw.githubusercontent.com/Eddy-Max-Lee/Eddy-CV-2/master/assets/img/p7-3.png)
 * * *
+# The Sections below are updating
+# 以下網站維修中
+
+[Link to another page](./another-page.html).
+[autobiography](./autobiography.md).
 
 # Side Project List
 ### LITE-ON Award
