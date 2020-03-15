@@ -2,7 +2,7 @@
 layout: default
 ---
 # Greetings
-
+With creative, leadership and carefully logical thinking, I am desiring to explore unknown fields and find the solution. I have been involved in high-dimensional image processing, SOC firmware development, human-machine interface, mobile device applications, robot motion control, and the Internet.
 # Education
 **National Taiwan University of Science and Technology, Taiwan**
 
