@@ -74,8 +74,8 @@ Capture images by using the built-in lens of mobile devices, develop in **Androi
 [Detail](./autobiography.md)
 
 ### KP the Mecha| 2017
-
-### Handwriting phone number recognition through neural network | 2018
+Starting from the basic feedback control, this topic designs a robot with entertainment functions as a controlled hard device. By letting the robot visit three players, and letting the player use the keyboard and seven-segment display on the robot to complete the operation, the artifact transportation and monitoring on the assembly line are simulated....[Detail](./autobiography.md)
+### Handwriting Phone Number Recognition through Neural Network | 2018
 
 
 ###	Application of Image Processing & Motor | 2018
