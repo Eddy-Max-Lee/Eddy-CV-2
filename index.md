@@ -8,13 +8,13 @@ layout: default
 [autobiography](./autobiography.md).
 
 # Education
-#### National Taiwan University of Science and Technology, Taiwan
+**National Taiwan University of Science and Technology, Taiwan**
   Master of Engineering in Automation and Control (2019 - )
 
-#### National Yunlin University of Science and Technology, Taiwan
+**National Yunlin University of Science and Technology, Taiwan**
   Bachelor of Electrical Engineering (2014 - 2019)
 
-#### National Feng-Shan Senior High School
+**National Feng-Shan Senior High School, Taiwan**
   The 3rd Category of Natural Sciences (2011 - 2014)
 
 # Language Skill (Updating)
