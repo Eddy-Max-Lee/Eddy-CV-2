@@ -126,12 +126,12 @@ Abstract—Product delivery is increasing steadily and a new way of transporting
 # Side Project List
 ### LITE-ON Award
 ### ATCC Project:
-###  : Hackson
+###  :
 ### 取物販賣機營利最佳化模型
 ### Computer Vision Application & Design Final:
 ### 咳嗽檢舉GIS系統
 ### : CHT IOT Platform Competition(中華電信IOT大平台創意應用大賽)
-### 紳士狗
+###
 
 
 # Competition Experience
